@@ -1,5 +1,0 @@
-# kado
-
-
-
-kado privet
